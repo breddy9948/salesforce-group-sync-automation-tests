@@ -1,4 +1,9 @@
-
+//===========================================================
+// NOTE: Sensitive internal packages have been removed
+// due to security restrictions by OPENTEXT.
+// Please ensure all security protocols are followed
+// when re-integrating or modifying this section.
+//============================================================
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Assert;
