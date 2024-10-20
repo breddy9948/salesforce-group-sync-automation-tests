@@ -1,4 +1,9 @@
-
+//===========================================================
+// NOTE: Sensitive internal packages have been removed
+// due to security restrictions by OPENTEXT.
+// Please ensure all security protocols are followed
+// when re-integrating or modifying this section.
+//============================================================
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
