@@ -3,6 +3,9 @@
 // due to security restrictions by OPENTEXT.
 // Please ensure all security protocols are followed
 // when re-integrating or modifying this section.
+// This is a sample automation test case for demonstration purposes.
+// This code is intended to illustrate how real-time automation test cases 
+// could look in a typical project setup. It is not intended for production use.
 //============================================================
 import static org.junit.Assert.assertTrue;
 
